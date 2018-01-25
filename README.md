@@ -35,3 +35,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div>
+  <h1>Elliot Student</h1>
+  <p>I'm an aspiring Master in Management student currently living in England
+  <p>
+      <h2>Skills</h2>
+      <ul>
+        <li>Business Development</li>
+        <li>Entrepreneurship</li>
+        <li>Microsoft Office</li>
+        <li>Programming</li>
+        <ul>
+     <h2>Contact Info</h2>
+   <p>Facebook: <a href="https://facebook.com/Elliotschouten">@Elliotschouten</a></p>
+</div>
